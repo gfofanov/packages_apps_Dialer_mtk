@@ -17,6 +17,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Forward lookup -->
+  <string name="nearby_places">Vendet përreth</string>
+  <string name="people">Persona</string>
+  <!-- dialpad t9 search -->
+  <string name="preference_category_t9_dialpad_search">Kërkimi me tastierë T9</string>
+  <string name="t9_search_input_locale_default">E paracaktuar</string>
   <!-- Number lookup -->
   <!-- Chinese Reverse Lookup Provider -->
   <!-- Call statistics -->
